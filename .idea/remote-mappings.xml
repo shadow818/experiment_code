@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://song@10.16.76.182:22/home/song/anaconda3/envs/pytorch/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/PointNet2" remote-root="/home/song/experiment_code/PointNet2" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

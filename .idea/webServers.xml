@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75181ddb-9fff-43a8-85ef-ae546ebc5768" name="pointnet2">
+        <fileTransfer rootFolder="/home/song" accessType="SFTP" host="10.16.76.182" port="22" sshConfigId="1d632330-c2a1-4604-9a20-250efed88014" sshConfig="song@10.16.76.182:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

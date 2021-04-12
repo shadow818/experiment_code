@@ -6,8 +6,19 @@
       <sourceFolder url="file://$MODULE_DIR$/PointNet2/utils" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PointNet2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PointNet2/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet2/data_utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet2/visualizer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet/data_utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointNet/visualizer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointConv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointConv/data_utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointConv/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PointConv/models" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (pytorch)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.10 (sftp://song@10.16.76.182:22/home/song/anaconda3/envs/pytorch/bin/python3.7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="song@10.16.76.182:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="pointnet2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/experiment_code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="song@10.16.76.182:22 password">
         <serverdata>
           <mappings>
@@ -17,6 +24,13 @@
         </serverdata>
       </paths>
       <paths name="song@10.16.76.182:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="song@10.16.76.182:22 password (3)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
